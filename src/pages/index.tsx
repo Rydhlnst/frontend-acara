@@ -10,7 +10,7 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
-      <PageHead title="Bokep"/>
+      <PageHead title="Acara"/>
       <Button color="primary">Niger</Button>
       <p>Hello World</p>
     </main>
